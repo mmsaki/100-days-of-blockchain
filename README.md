@@ -130,7 +130,7 @@ Coding blockchain apps for 100 days
 1. Social App
 1. Saving Application
 1. Chat App p2p
-1. Telegram App
+1. Telegram Bot
 1. Merkle Tree whitelist
 1. Poap App
 1. Create NFT Collection
