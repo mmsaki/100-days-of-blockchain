@@ -6,9 +6,9 @@ Coding blockchain apps for 100 days
 
 ## 1-10 Intro Wallets
 
-1. Vanity wallet
+1. Vanity Wallet Generator
 1. Signing and Sending transactions
-1. Wallet SDKs ConnectKit, Rainbow etc.
+1. Wallet SDKs ConnectKit, Rainbow, MEWconnect etc.
 1. IOS Wallet
 1. ENS
 1. ECDSA
