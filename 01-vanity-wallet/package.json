@@ -3,7 +3,6 @@
 	"version": "0.0.1",
 	"description": "generate wallet addresses",
 	"main": "index.js",
-	"type": "module",
 	"scripts": {
 		"test": "jest"
 	},
