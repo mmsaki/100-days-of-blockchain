@@ -63,7 +63,7 @@ Coding blockchain apps for 100 days
 1. Flashbots tx bundle
 1. Graphql
 1. ZoraAPI
-1. RPC from scratch
+1.
 1.
 1.
 1.
