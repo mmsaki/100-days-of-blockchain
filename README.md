@@ -53,7 +53,7 @@ Coding blockchain apps for 100 days
 1. Starknet
 1. Zokrates
 1. zk Machine Learning
-1.
+1. Noir program
 1. Mina
 
    ## 41-50 Transactions & Tx Analysis
