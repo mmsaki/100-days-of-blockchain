@@ -1,6 +1,6 @@
 def is_on_secp256k1_curve(n):
     """
-    Returns true is tuple of integers `n` is a point on the eliptic curve y^2 = x^3 = 7
+    Returns true is tuple of integers is a point on the eliptic curve y^2 = x^3 = 7
     """
     # secp256k1 params
     p = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F
