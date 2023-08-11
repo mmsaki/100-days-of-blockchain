@@ -4,6 +4,9 @@ def is_on_secp256k1_curve(n):
     """
     # secp256k1 params
     p = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2F
+    # or
+    # p = 2**256 - 2**32 - 2**9 - 2**8 - 2**7 - 2**6 - 2**4 - 1
+    
     b = 7
 
     # convert coordinates to integers
